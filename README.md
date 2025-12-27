@@ -113,9 +113,12 @@ A **real-time scheduling and optimization system** used during winter airport op
 ---
 
 <p align="center">
+  <img src="https://github.com/Shivambansal97/Shivambansal97/raw/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Shivambansal97/Shivambansal97/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
