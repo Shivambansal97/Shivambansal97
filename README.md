@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:0F2027,50:203A43,100:2C5364&section=header&text=Shivam%20Bansal&fontSize=44&fontColor=EAF6FF&animation=fadeIn&desc=%20Senior%20Full%20Stack%20Developer%20|%20✈️ Real-Time%20Aviation%20Systems&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:0F2027,50:203A43,100:2C5364&section=header&text=Shivam%20Bansal&fontSize=44&fontColor=EAF6FF&animation=fadeIn&desc=Senior%20Full%20Stack%20Developer%20|%20Real-Time%20Aviation%20Systems&descSize=20&descAlignY=70" />
 </p>
 
 <!-- Typing Animation -->
@@ -92,19 +92,6 @@ A **real-time scheduling and optimization system** used during winter airport op
 
 <p>
   <img src="https://skillicons.dev/icons?i=redis,kafka,rabbitmq,mongodb,postgresql" />
-</p>
-
----
-
-## 📊 GitHub Stats (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivambansal97&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivambansal97&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivambansal97&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
