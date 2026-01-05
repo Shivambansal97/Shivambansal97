@@ -73,7 +73,7 @@ A **real-time scheduling and optimization system** used during winter airport op
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,tailwind" />
 </p>
 
 ### Backend
